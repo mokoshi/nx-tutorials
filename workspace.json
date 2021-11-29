@@ -1,7 +1,13 @@
 {
   "version": 2,
   "projects": {
+    "api": "apps/api",
+    "awesome-app": "apps/awesome-app",
+    "awesome-app-e2e": "apps/awesome-app-e2e",
+    "data": "libs/data",
+    "mokotan": "apps/mokotan",
     "todos": "apps/todos",
-    "todos-e2e": "apps/todos-e2e"
+    "todos-e2e": "apps/todos-e2e",
+    "ui": "libs/ui"
   }
 }
